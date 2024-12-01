@@ -2,9 +2,9 @@
 
 This repository demonstrates a visualization of the A* pathfinding algorithm in a 2D grid using **C++** and the **SFML** graphics library. The program generates random obstacles, highlights the start and end points, and animates the pathfinding process.
 
-<div style="text-align: center;">
+<p align="center">
   <img src="astar_visualization.png" alt="A* Pathplanning Visualization" width="500"/>
-</div>
+</p>
 
 ## Features
 - Randomly generated obstacles displayed in red.
